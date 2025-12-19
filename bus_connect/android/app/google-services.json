@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88128136369",
+    "project_id": "busconnect-cd7e2",
+    "storage_bucket": "busconnect-cd7e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88128136369:android:aec696c237faf541082e90",
+        "android_client_info": {
+          "package_name": "com.example.bus_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ1qqlX4rsYn6ftMPnIQ3KshSYkSXRiwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
